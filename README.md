@@ -6,7 +6,7 @@
 
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/alex-nelson-pouassi-tchabe-aba370380/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png" alt="LinkedIn" height="30" width="30" /></a>&nbsp;<a href="#" target="_blank"><img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e3d80db9971f10a9757c99_Symbol.svg" alt="Discord" width="40" height="40" /></a>
+  <a href="https://www.linkedin.com/in/alex-nelson-pouassi-tchabe-aba370380/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" /></a>&nbsp;<a href="https://discord.gg/8jHHhbtypc" target="_blank"><img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e3d80db9971f10a9757c99_Symbol.svg" alt="Discord" width="40" height="40" /></a>
 </p>
 
 <table align="center">
@@ -18,6 +18,7 @@
   </tr>
   <tr>
     <td align="center">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
@@ -25,9 +26,9 @@
     <td align="center">
       <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge.svg" alt="HTML5" width="40" height="40" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/120px-CSS3_logo.svg.png" alt="CSS3" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40" />
       <img src="https://img.icons8.com/?size=48&id=4PiNHtUJVbLs&format=png" alt="Tailwind CSS" width="40" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" />
     </td>
     <td align="center">
       <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="60" height="40" />
